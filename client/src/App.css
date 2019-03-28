@@ -1,5 +1,5 @@
 body {
-  margin-bottom: 100px !important;
+  margin-bottom: 75px !important;
 }
 
 img {
@@ -13,7 +13,6 @@ img {
   background-position: center;
   height: 100vh;
   margin-top: -24px;
-  margin-bottom: 50px;
 }
 
 .landing-inner {
